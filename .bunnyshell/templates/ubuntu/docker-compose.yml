@@ -1,0 +1,6 @@
+name: Ubuntu 24.04
+description: Basic Ubuntu 24.04 development environment
+icon: ubuntu
+
+environment:
+  dockerCompose: docker-compose.yml
